@@ -1,7 +1,8 @@
 # TheFinalPOS
 University Project for Web Programming Course
 
-The project features an online shop but also a POS
+The project features an online shop but also a POS.
+
 Accounts can be created for the following roles:
 - Admin (CRUD Access to Items, Users, Categories)
 - Manager (Fire Employees, View Analytics for sales)
